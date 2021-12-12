@@ -1,4 +1,11 @@
-// SPDX-Licence-Identifier: MIT
+/**
+ *Submitted for verification at Etherscan.io on 2021-02-26
+*/
+
+/**
+ *Submitted for verification at Etherscan.io on 2019-08-02
+*/
+
 // File: contracts\open-zeppelin-contracts\token\ERC20\IERC20.sol
 
 pragma solidity ^0.5.0;
